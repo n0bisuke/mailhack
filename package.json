@@ -1,0 +1,19 @@
+{
+  "name": "gmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv": "^2.1.11",
+    "inbox": "^1.1.59",
+    "mailparser": "^0.5.3",
+    "milkcocoa": "^0.5.0",
+    "nodemailer": "^2.3.0"
+  }
+}
